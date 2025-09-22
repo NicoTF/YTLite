@@ -6,7 +6,9 @@
   "website": "",
   "patreonURL": "",
   "tintColor": "#e25656",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.ntfg.ios.youtube"
+  ],
   "apps": [
     {
       "name": "YouTube Vanced",
