@@ -1,11 +1,11 @@
 {
   "name": "NicoTF",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "subtitle": "Le mie belle app",
+  "description": "Benvenuto!",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://nicotf.it",
   "patreonURL": "https://patreon.com/mycampaign",
-  "tintColor": "#e25656",
+  "tintColor": "#0e7298",
   "featuredApps": [
     "com.ntfg.ios.youtube"
   ],
